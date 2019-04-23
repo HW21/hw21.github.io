@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <circle style="fill:white; stroke: rgb(0, 0, 0); stroke-width: 150px;" cx="600" cy="600" r="500"/>
+  <line style="stroke: rgb(0, 0, 0); stroke-width: 150px; stroke-linecap: round;" x1="400" y1="800" x2="700" y2="500"/>
+  <g transform="matrix(0.5, 0, 0, 0.5, 225, 375)" style="">
+    <polygon style="fill: black; stroke: black;" points="1200 0 1200 600 600 0"/>
+    <line style="stroke: rgb(0, 0, 0); stroke-width: 150px; stroke-linecap: round;" x1="600" y1="0" x2="1200" y2="0"/>
+    <line style="stroke: rgb(0, 0, 0); stroke-width: 150px; stroke-linecap: round;" x1="1200" y1="0" x2="1200" y2="600"/>
+    <line style="stroke: rgb(0, 0, 0); stroke-width: 150px; stroke-linecap: round;" x1="600" y1="0" x2="1200" y2="600"/>
+  </g>
+</svg>
